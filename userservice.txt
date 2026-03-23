@@ -4,3 +4,6 @@ process the data
 adding the users avatar
 
 login and logout
+
+make change 1
+make change 2
